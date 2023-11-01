@@ -1,2 +1,2 @@
 # trabalho
-código do site
+código do site para trabalho de sistemas de informação.
